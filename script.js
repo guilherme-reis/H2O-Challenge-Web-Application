@@ -68,3 +68,6 @@ function updateBigCup() {
         liters.innerText = `${1 - (50 * fullCups / 1000)}L`
     }
 }
+
+
+
