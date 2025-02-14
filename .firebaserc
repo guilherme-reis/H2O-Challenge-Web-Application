@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "h2o-challenge-testing-c201d",
+    "testing": "h2o-challenge-testing-c201d",
+    "staging": "h2o-challenge-staging-244a0",
+    "production": "h2o-challenge-production-af856"
+  },
+  "targets": {},
+  "etags": {}
+}
